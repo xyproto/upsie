@@ -1,5 +1,7 @@
 # Upsie
 
+![screenshot](img/upsie.png)
+
 A utility written in Zig that takes the best of uptime and uname -a and displays it in a beautiful way.
 
 * License: BSD-3
